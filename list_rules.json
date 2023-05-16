@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Rule n°1",
+        "rule": "Optimize your images "
+    },
+    {
+        "name": "Rule n°2",
+        "rule": "Optimize your canonical tags"
+    },
+    {
+        "name": "Rule n°3",
+        "rule": "Choose the best url structure"
+    },
+    {
+        "name": "Rule n°4",
+        "rule": "Use 301 redirects properly for SEO"
+    },
+    {
+        "name": "Rule n°5",
+        "rule": "Fix 404 error pages"
+    },
+    {
+        "name": "Rule n°6",
+        "rule": "Use SSL certificate for SEO and Security"
+    },
+    {
+        "name": "Rule n°7",
+        "rule": "Meta robots directives for SEO purposes"
+    },
+    {
+        "name": "Rule n°8",
+        "rule": "Using Robots.txt Fil"
+    },
+    {
+        "name": "Rule n°9",
+        "rule": "Create a Robust, Informative Sitemap "
+    },
+
+    {
+        "name": "Rule n°10",
+        "rule": "Use semantic markup"
+    },
+
+    {
+        "name": "Rule n°11",
+        "rule": "Fix broken links, if any"
+    },
+
+    {
+        "name": "Rule n°12",
+        "rule": "Have a mobile-first approach"
+    }
+]
